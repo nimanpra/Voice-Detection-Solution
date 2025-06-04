@@ -330,17 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [Hugging Face](https://huggingface.co/) for hosting the pre-trained models
 
-## Support ❤️
-
-If you find this project useful, please consider giving it a ⭐️ on GitHub!
-
-For support, please [open an issue](https://github.com/yourusername/voice2text/issues) on GitHub.
-
----
-
-<div align="center">
-  Made with ❤️ by Your Name
-</div>
 
 ## License 📄
 
