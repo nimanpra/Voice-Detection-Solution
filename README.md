@@ -351,5 +351,5 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ---
 
 <div align="center">
-  Made with ❤️ by Prasad Nimantha
+  Made with ❤️ by Nimantha Hewage
 </div>
